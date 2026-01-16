@@ -1,2 +1,1 @@
-# redirect-samarth-site
-rd
+<!-- xamarth -->
